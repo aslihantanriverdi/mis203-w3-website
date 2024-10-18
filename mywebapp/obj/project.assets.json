@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HASAN\\Desktop\\23051200051_w3\\mis203-w3-website\\mywebapp\\mywebapp.csproj",
+      "projectUniqueName": "C:\\Users\\HASAN\\Desktop\\mis203-w3-website\\mywebapp\\mywebapp.csproj",
       "projectName": "mywebapp",
-      "projectPath": "C:\\Users\\HASAN\\Desktop\\23051200051_w3\\mis203-w3-website\\mywebapp\\mywebapp.csproj",
+      "projectPath": "C:\\Users\\HASAN\\Desktop\\mis203-w3-website\\mywebapp\\mywebapp.csproj",
       "packagesPath": "C:\\Users\\HASAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HASAN\\Desktop\\23051200051_w3\\mis203-w3-website\\mywebapp\\obj\\",
+      "outputPath": "C:\\Users\\HASAN\\Desktop\\mis203-w3-website\\mywebapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HASAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
